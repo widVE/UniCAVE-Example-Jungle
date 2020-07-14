@@ -1,6 +1,6 @@
 # UniCAVE Example: Jungle
 
-![Jungle scene](jungle.png)
+![Jungle scene](jungle.jpg)
 
 This is an example scene for the UniCAVE project. This example scene is designed for use with UniCAVE 2019 or newer.
 
